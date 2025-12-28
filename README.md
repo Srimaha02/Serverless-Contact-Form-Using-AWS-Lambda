@@ -88,11 +88,12 @@ Copy code
 
 | Screenshot | Description |
 |-----------|-------------|
-| ![](assets/screenshots/n1.png) | Contact Form UI |
-| ![](assets/screenshots/n2.png) | DynamoDB Table Created |
-| ![](assets/screenshots/n3.png) | IAM Role Permissions for Lambda |
-| ![](assets/screenshots/n4.png) | API Gateway Setup |
-| ![](assets/screenshots/n5.png) | Form Submission Test |
+| ![](screenshots/n1.PNG) | Contact Form UI |
+| ![](screenshots/n2.PNG) | DynamoDB Table Created |
+| ![](screenshots/n3.PNG) | IAM Role Permissions for Lambda |
+| ![](screenshots/n4.PNG) | API Gateway Setup |
+| ![](screenshots/n5.PNG) | Form Submission Test |
+
 
 ---
 
